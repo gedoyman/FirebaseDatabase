@@ -1,0 +1,5 @@
+Step
+====
+1. Tools -> Firebase -> Realtime Database -> Connect your app to Firebase
+2. Add the realtime database to your app
+3. 

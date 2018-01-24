@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116758235917",
+    "firebase_url": "https://fir-database-613ed.firebaseio.com",
+    "project_id": "fir-database-613ed",
+    "storage_bucket": "fir-database-613ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116758235917:android:3039792f26f689fa",
+        "android_client_info": {
+          "package_name": "com.littleaozora.hendra.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116758235917-djqha55ta1nfcm9lbf81oet3ass17o2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.littleaozora.hendra.firebasedatabase",
+            "certificate_hash": "1120f972934821632e0b2703574e39fcacd99000"
+          }
+        },
+        {
+          "client_id": "116758235917-afltop9kicfvt8kd5taucvrojnko133v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EWT0u9wycQlqgZP8KzzsWV9trYnfZ8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116758235917-afltop9kicfvt8kd5taucvrojnko133v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
